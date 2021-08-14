@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "PanelTap_3D",
+"productVersion": "0.1",
+"dataUrl": "PanelTap_3D_Build2.data.unityweb",
+"wasmCodeUrl": "PanelTap_3D_Build2.wasm.code.unityweb",
+"wasmFrameworkUrl": "PanelTap_3D_Build2.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.28f1"
+}
